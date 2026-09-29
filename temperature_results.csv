@@ -1,0 +1,10 @@
+temperature,run,output,input_tokens,output_tokens,latency_s
+0.0,1,Technovate,16,3,1.85
+0.0,2,Technovate,16,3,1.11
+0.0,3,TechNexus,16,2,0.98
+0.7,1,TechnoVate,16,4,1.17
+0.7,2,TechnoVation,16,4,1.23
+0.7,3,Technova,16,2,1.4
+1.5,1,Technovate,16,3,1.29
+1.5,2,Technova,16,2,1.16
+1.5,3,Technova,16,2,1.72
